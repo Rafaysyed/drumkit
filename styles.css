@@ -16,7 +16,7 @@ footer {
 }
 
 .w {
-  background: url("../images/tom1.png") no-repeat scroll 0 0 transparent;
+  background: url("images/tom1.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
   font-weight: bold;
@@ -26,7 +26,7 @@ footer {
 }
 
 .a {
-  background: url("../images/tom2.png") no-repeat scroll 0 0 transparent;
+  background: url("images/tom2.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
   font-weight: bold;
@@ -36,7 +36,7 @@ footer {
 }
 
 .s {
-  background: url("../images/tom3.png") no-repeat scroll 0 0 transparent;
+  background: url("images/tom3.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
   font-weight: bold;
@@ -46,7 +46,7 @@ footer {
 }
 
 .d {
-  background: url("../images/tom4.png") no-repeat scroll 0 0 transparent;
+  background: url("images/tom4.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
   font-weight: bold;
@@ -56,7 +56,7 @@ footer {
 }
 
 .j {
-  background: url("../images/snare.png") no-repeat scroll 0 0 transparent;
+  background: url("images/snare.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
   font-weight: bold;
@@ -66,7 +66,7 @@ footer {
 }
 
 .k {
-  background: url("../images/crash.png") no-repeat scroll 0 0 transparent;
+  background: url("images/crash.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
   font-weight: bold;
@@ -76,7 +76,7 @@ footer {
 }
 
 .l {
-  background: url("../images/kick.png") no-repeat scroll 0 0 transparent;
+  background: url("images/kick.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
   font-weight: bold;
